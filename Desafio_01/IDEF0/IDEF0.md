@@ -1,7 +1,7 @@
 IDEF0
 
 A-0
-Para ver o IDEF0 A-0, segue a imagem em anexo na pasta "IDEF0_GERENCIAR_VENDAS_CUPOM.png".
+Para ver o IDEF0 A-0, segue a imagem em anexo na pasta "A-0_GERENCIAR_VENDAS_CUPOM.png".
 
 A0
   A1[[A1: Definir regras de cupom]]
@@ -16,3 +16,5 @@ A0
   A2 --> OUT1[Cupons publicados]
   A3 --> OUT2[Pedido com desconto]
   A4 --> OUT3[Relatórios]
+
+  OBS: Para ver o IDEF0 A0, segue a imagem em anexo na pasta "A0_GERENCIAR_VENDAS_CUPOM.png"
