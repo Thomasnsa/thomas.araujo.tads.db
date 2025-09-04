@@ -1,4 +1,4 @@
-PERGUNTAS DE CHEGAGEM
+PERGUNTAS DE CHECAGEM
 
 1) Quais controles do A-0 impedem abuso de cupons?
 - Politica de desconto.
